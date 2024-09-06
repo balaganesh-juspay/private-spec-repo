@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
     s.platform     = :ios, "12.0"
     
-    s.source       = { :git => "https://github.com/balaganesh-juspay/juspay-wrapper-test.git", :tag => 'v0.0.1' }
+    s.source       = { :git => "https://github.com/balaganesh-juspay/test-wrapper-sdk.git", :tag => 'v0.0.1' }
 
     s.source_files = '**/*.{h,m}'
     s.resources    = ['Fuse.rb']
